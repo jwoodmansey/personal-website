@@ -42,6 +42,10 @@ body {
   text-decoration: none;
 }
 
+a {
+  color: #487599
+}
+
 .links a.linkedin {
   color: #4875B4
 }
