@@ -46,6 +46,13 @@ body {
   text-decoration: none;
 }
 
+@media only screen and (max-width: 468px) {
+  .links a {
+    line-height: 48px;
+    font-size: 48px;
+  }
+}
+
 a {
   color: #487599;
 }
