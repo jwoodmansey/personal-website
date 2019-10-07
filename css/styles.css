@@ -64,3 +64,16 @@ a {
 .links a.twitter {
   color: #33ccff;
 }
+
+ul {
+  list-style: none;
+}
+
+li {
+  margin-bottom: 0px;
+}
+
+h3 {
+  font-size: 16px;
+  margin-bottom: 8px;
+}
